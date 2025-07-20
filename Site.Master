@@ -57,6 +57,10 @@
                         <li><a runat="server" href="~/Contact">Contact</a></li>
                         <li><a runat="server" href="~/UI/EmployeeInformation.aspx">Employee Information</a></li>
                         <li><a runat="server" href="~/UI/LeaveEntry.aspx">Leave Entry</a></li>
+                        <li><a runat="server" href="~/UI/CompanySetup.aspx">CompanySetup</a></li>
+                        <li><a runat="server" href="~/UI/DepartmentSetup.aspx">DepartmentSetup</a></li>
+                        <li><a runat="server" href="~/UI/AttendenceEntry.aspx">Attendence Entry</a></li>
+
 
 
                     </ul>
